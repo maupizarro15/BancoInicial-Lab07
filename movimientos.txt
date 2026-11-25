@@ -1,0 +1,3 @@
+2026-11-24T23:52:53.542549100 | Cuenta creada | Titular: Mauricio | Saldo inicial: S/ 500
+2026-11-24T23:52:59.622108300 | Titular: Mauricio | Deposito: S/ 300 | Saldo actual: S/ 800
+2026-11-24T23:53:06.923032100 | Titular: Mauricio | Retiro: S/ 100 | Saldo actual: S/ 700
